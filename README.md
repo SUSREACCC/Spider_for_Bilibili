@@ -1,0 +1,3 @@
+- 浏览器使用Edge
+- 确保使用的MicrosoftWebDriver.exe版本与你的Edge版本一致。如果不一致，去edge上搜"webdriver"下载一个一致的版本，把名字改成"MicrosoftWebDriver.exe"，和B2_1.py放在一个目录下
+- Python版本，所需库与版本，见requirements.txt
