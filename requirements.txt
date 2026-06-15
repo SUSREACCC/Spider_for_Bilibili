@@ -1,0 +1,6 @@
+# Python 版本: 3.10.4
+# 使用方法: pip install -r requirements.txt
+
+selenium==4.27.1
+selenium-wire==5.1.0
+jsonpath==0.82.2
